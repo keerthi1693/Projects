@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 22 22:16:59 2019
 
-@author: siddhartha Kille
-"""
 
 from requests import get
 import datetime
